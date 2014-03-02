@@ -1,0 +1,13 @@
+ja:
+  activemodel:
+    models:
+      admin_user: 管理ユーザ
+    attributes:
+      admin_user:
+        email: メールアドレス
+  activerecord:
+    models:
+      admin_user: 管理ユーザ
+    attributes:
+      admin_user:
+        email: メールアドレス
